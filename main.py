@@ -10,7 +10,7 @@ os.system("color a")
 
 # Verification
 print("Do you want to activate the spammer ? \n[y/n]")
-response = input().toLowerCase()
+response = input().lower()
 
 # Spam
 if response == "y":
