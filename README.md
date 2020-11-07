@@ -1,6 +1,6 @@
 # Spam-Windows
 💻 This is a short python program who spam a windows terminal. It's nice for pranks !
-Don't worry, this is not a virus. It's a program for jokes.
+Don't worry, this is not a virus.
 
 ⚠️ Only work in **WINDOWS** ⚠️
 
