@@ -27,6 +27,6 @@ elif response == "n":
     print("Goodbye !")
     time.sleep(1)
     exit()
-# If responsi is not Y or not N exit
+# If response is not "y" or not "n" exit
 else:
     exit()
