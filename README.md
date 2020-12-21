@@ -6,4 +6,4 @@ Don't worry, this is not a virus.
 
 ▶️ To run the script download it then run in your terminal and in the right folder `py main.py`. And to stop it click `CTRL + C` ◀️
 
-Program made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773)
+Made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773)
